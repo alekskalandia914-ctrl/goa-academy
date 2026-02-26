@@ -26,7 +26,7 @@ print("გამყოფი:", num1 / num2)
 
 
 weight = float(input("შეიყვანე შენი წონა: "))
-height = float(input("შეიყვანე შენი სიმაღლე: "))
+height = float(input("შეიყვანე შენი სიმაღლე-+: "))
 
 bmi = weight / (height * height)
 
